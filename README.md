@@ -5,7 +5,7 @@ Proyek ini adalah chatbot berbasis FastAPI yang terintegrasi dengan OpenAI's Ass
 ---
 
 ## 💰 Bukan Open Source
-Code chatbot ini dienkripsi. Jika ingin menggunakan, hubungi raufendro@gmail.com atau kirim pesan ke LinkedIn Rauf Endro Widagdo
+Code chatbot ini dienkripsi. Jika ingin menggunakan menyesuaikan keinginan kalian, hubungi raufendro@gmail.com atau kirim pesan ke LinkedIn Rauf Endro Widagdo
 
 ---
 
