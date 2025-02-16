@@ -56,6 +56,9 @@ uvicorn api:app --host 0.0.0.0 --port 7878 --workers 4
 
 ## 📡 Endpoint API
 
+### Catatan
+Proses dari file unggah dan file dikenali oleh AI membutuhkan 10-20 detik. Jika pertanyaan ke AI dijawab sudah akurat tandanya AI sudah mengenali file dasar pengetahuan yang sudah diunggah
+
 ### ➤ Chat dengan Asisten
 **POST** `/chat`
 
