@@ -7,10 +7,15 @@ Proyek ini adalah chatbot berbasis FastAPI yang terintegrasi dengan OpenAI's Ass
 ## 📌 Fitur
 
 ✅ **Backend FastAPI** - Server API yang ringan dan efisien.
+
 ✅ **Integrasi OpenAI Assistant** - Menangani percakapan pengguna.
+
 ✅ **Manajemen Sesi** - Melacak interaksi pengguna.
+
 ✅ **Pengambilan Data dari MySQL** - Mengambil dan membersihkan data.
+
 ✅ **Unggahan File Otomatis ke OpenAI** - Memastikan sinkronisasi data.
+
 ✅ **Dukungan Multithreading** - Menjalankan tugas latar belakang untuk pembaruan data.
 
 ---
@@ -48,6 +53,7 @@ uvicorn api:app --host 0.0.0.0 --port 7878 --workers 4
 
 ### ➤ Chat dengan Asisten
 **POST** `/chat`
+
 🗒️ chat_id can be phone number or session chat based on your system
 ```json
 {
@@ -106,6 +112,6 @@ threading.Thread(target=run_function, args=(get_data,)).start()
 
 ---
 
-## 📝 Lisensi
-MIT License © 2025 Your Name
+## 💰 Bukan Open Source
+Jika ingin menggunakan, hubungi raufendro@gmail.com atau kirim pesan ke LinkedIn Rauf Endro Widagdo
 
