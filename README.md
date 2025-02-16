@@ -38,7 +38,7 @@ Code chatbot ini dienkripsi. Jika ingin menggunakan menyesuaikan keinginan kalia
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Atur Variabel Lingkungan
+### 3️⃣ Atur Variabel Environment
 Buat file `.env` dan tambahkan berikut ini:
 ```env
 API_KEY=your_openai_api_key
