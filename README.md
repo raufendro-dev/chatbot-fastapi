@@ -44,6 +44,16 @@ Buat file `.env` dan tambahkan berikut ini:
 API_KEY=your_openai_api_key
 ASSISTANT_ID=your_openai_assistant_id
 VECTOR_STORE_ID=your_openai_vector_store_id
+API_KEY=your_openai_api_key
+ASSISTANT_ID=your_assistant_id
+VECTOR_STORE_ID=your_vector_store_id
+
+# Config for MySQL
+HOST = your_host
+USER = your_user
+PASSWORD = your_password
+DATABASE = your_database
+TABLE = your_table
 ```
 
 ### 4️⃣ Jalankan Server FastAPI
