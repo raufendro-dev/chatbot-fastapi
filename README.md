@@ -72,7 +72,7 @@ Proses dari file unggah dan file dikenali oleh AI membutuhkan 10-20 detik. Jika 
 ### ➤ Chat dengan Asisten
 **POST** `/chat`
 
-🗒️ chat_id can be phone number or session chat based on your system
+🗒️ chat_id bisa jadi nomor pengguna atau sesi chat pada sistem anda
 ```json
 {
     "chat_id": "user123",
