@@ -4,6 +4,11 @@ Proyek ini adalah chatbot berbasis FastAPI yang terintegrasi dengan OpenAI's Ass
 
 ---
 
+## 💰 Bukan Open Source
+Jika ingin menggunakan, hubungi raufendro@gmail.com atau kirim pesan ke LinkedIn Rauf Endro Widagdo
+
+---
+
 ## 📌 Fitur
 
 ✅ **Backend FastAPI** - Server API yang ringan dan efisien.
@@ -108,10 +113,9 @@ threading.Thread(target=run_function, args=(get_data,)).start()
 - ✅ Autentikasi untuk Keamanan API
 - ✅ Dashboard untuk Memantau Chat & Data
 
-💡 Jangan ragu untuk berkontribusi & meningkatkan proyek ini!
+
 
 ---
 
-## 💰 Bukan Open Source
-Jika ingin menggunakan, hubungi raufendro@gmail.com atau kirim pesan ke LinkedIn Rauf Endro Widagdo
+
 
